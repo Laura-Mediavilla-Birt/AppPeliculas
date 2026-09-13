@@ -12,7 +12,7 @@ import { Elemento } from 'src/app/models/elemento.model';
   styleUrls: ['home.page.scss'],
   //TODO añade los componentes de Ionic y FormsModule a imports
   imports: [IonFooter, IonInput, IonHeader, IonToolbar, IonTitle, IonContent, 
-    FormsModule, IonInput, IonItem, IonLabel, IonToolbar, IonTitle, IonContent, IonButton, IonList, IonCard, IonCardHeader, IonCardTitle, IonCardContent
+    FormsModule, IonInput, IonItem, IonLabel, IonToolbar, IonTitle, IonContent, IonButton, IonList
   ],
 })
 export class HomePage {
