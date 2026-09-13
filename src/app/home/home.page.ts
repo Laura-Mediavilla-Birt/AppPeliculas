@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import {
-  IonHeader, IonToolbar, IonTitle, IonContent, IonInput, IonItem, IonLabel, IonButton, IonList, IonCard, IonCardHeader, IonCardTitle, IonCardContent,
+  IonHeader, IonToolbar, IonTitle, IonContent, IonInput, IonItem, IonLabel, IonButton, IonList,
   ToastController, IonFooter } from '@ionic/angular/standalone';
 import { FormsModule } from '@angular/forms';
 import { Elemento } from 'src/app/models/elemento.model';
